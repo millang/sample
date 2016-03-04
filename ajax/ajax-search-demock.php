@@ -15,7 +15,7 @@ require "config.php";  // database connection
 
 $in=$_GET['txt'];
 if(!ctype_alnum($in)){
-echo "Data Error";
+echo "Error";
 exit;
 }
 

@@ -61,7 +61,7 @@ border: 1px none #000000"></div>
 
 <form name="myForm">
 <input type="text"
-onkeyup="ajaxFunction(this.value);" name="username" /> Type letter by letter slowly to read the records displayed.  ( Example type b then i )
+onkeyup="ajaxFunction(this.value);" name="username" /> Another Changes  ( Try it now)
  
 <div id="displayDiv"></div>
 
