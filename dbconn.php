@@ -5,7 +5,7 @@
 		$con = new PDO("mysql://host=localhost;dbname=saas;",'root','');
 
 	}catch(PDOException $err){
-		$err = "Failed to connect database";
+		$err = "Failed ";
 		echo $err;
 	}
 
