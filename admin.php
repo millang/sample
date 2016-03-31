@@ -5,7 +5,7 @@ if(!isset($_SESSION['id'])){
 
     echo "<script language='JavaScript' type='text/JavaScript'>
     <!--
-    alert('You must Login');
+    alert('Kinahanglan ka mo login!');
     //-->
     </script>
     ";
